@@ -64,7 +64,7 @@ function scrollVertically(target){
 
 
 var skills  =  document.getElementById('skills-container');
-var progressBars = document.querySelector('.skill-progress > div');\
+var progressBars = document.querySelector('.skill-progress > div');
 
 function initialise(){
     for(var bar of progressBars){
@@ -73,4 +73,4 @@ function initialise(){
     }
 }
 
-var scroll = window.
+// var scroll = window.
